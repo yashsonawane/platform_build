@@ -1634,4 +1634,4 @@ fi
 
 export ANDROID_BUILD_TOP=$(gettop)
 
-. vendor/lucid/build/envsetup.sh
+. $ANDROID_BUILD_TOP/vendor/lucid/build/envsetup.sh
